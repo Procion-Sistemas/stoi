@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 /*Calistu 2019
- * ictoi.h - int char to int
+ * stoi.h - string to int
  * this header changes
  * numeric strings in unsigned int
  * returns int num or -1 for error
